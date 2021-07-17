@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    
+    "start" : "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.130.1"
+  }
+}
